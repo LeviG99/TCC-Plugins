@@ -1,4 +1,4 @@
-# RefactorFaultInsertionTool
+# TCC-Refactor Plu-gins
 
 Plug-ins para serem utilizados para simulação de refatoramentos com faltas em um sistema, por meio de inserção de mutantes
 
