@@ -1,4 +1,4 @@
-# TCC-Refactor Plu-gins
+# TCC-Refactor Plugins
 
 Plug-ins para serem utilizados para simulação de refatoramentos com faltas em um sistema, por meio de inserção de mutantes
 
